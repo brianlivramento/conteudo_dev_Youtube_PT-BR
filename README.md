@@ -64,4 +64,4 @@
 
 ---
 
-Se souberem de mais algum, sinta-se a vontade para incluí-lo. Manter a ordem alfabética.
+Caso encontrem mais, sintam-se a vontade para adicioná-los a essa lista. Não esqueçam de respeitar a ordem alfabética.
