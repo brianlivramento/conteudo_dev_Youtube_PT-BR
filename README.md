@@ -1,3 +1,4 @@
+# Lista
 ### Uma coletânea de canais relevantes para acompanhar, por ordem alfabética.
 
 - algaworks https://www.youtube.com/channel/UCIPQ0ZqTl5e5U2OFKENOh9g
@@ -61,4 +62,4 @@
 - Webschool - GO https://www.youtube.com/channel/UCXJcJFMyw8aBnvV0SPZWAdg
 - Webschool.io - JavaScript https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg
 
-
+Se souberem de mais algum, sinta-se a vontade para incluí-lo. Manter a ordem alfabética.
