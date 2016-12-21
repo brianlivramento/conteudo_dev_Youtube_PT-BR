@@ -1,4 +1,4 @@
-### Uma coletânea de canais relevantes para acompanhar
+### Uma coletânea de canais relevantes para acompanhar, por ordem alfabética.
 
 - algaworks https://www.youtube.com/channel/UCIPQ0ZqTl5e5U2OFKENOh9g
 - Asolucoesweb Portal de treinamento web https://www.youtube.com/channel/UCR26qtZ2AUqh2Tdx0ep6lQg
@@ -9,3 +9,56 @@
 - Code.education https://www.youtube.com/channel/UCIlafifr-E57jct9knCrZzw
 - Curso em Vídeo https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
 - Curso Zend Framework https://www.youtube.com/channel/UCsMR_iixPPlYl6QysW3kkyQ
+- Daviwp https://www.youtube.com/channel/UCYk5hiWf-f32JFCbK0lhAGQ
+- Diolinux https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA
+- Eduardo Cuducos https://www.youtube.com/channel/UCtxfcXdpH4cYrePf-Me1uWw
+- Elton Minetto https://www.youtube.com/channel/UCZSl6chVJgpbhxjYbijnd0Q
+- Esecurity Treinamentos https://www.youtube.com/channel/UCu4VbbKYZNbKpJO_woC8r4g
+- Estevan Maito https://www.youtube.com/channel/UCIUOmAsotrzdK8VsZuHfVHw
+- Eu Programador https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA
+- eXcript https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg
+- Fabio Vedovelli https://www.youtube.com/channel/UC1PUtdA_NktdtmRpF_UGG_w
+- Felipe Fontoura - Dev Samurai https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw
+- Filipe Deschamps https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw
+- Gravento https://www.youtube.com/channel/UCU_SZQAcN4IDs_RXY7iT4sg
+- HxTutors https://www.youtube.com/channel/UC-KV2g7wDXFPLqEFan4oeBQ
+- Ignorância Zero https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw
+- Igoritmo Igor Duarte https://www.youtube.com/channel/UC24VnlFTVVFXWnNn1uQnBVA
+- iMasters https://www.youtube.com/channel/UCNTX_S7zq9h_MKhPljMIoYw
+- Jaison Tiago de Lara https://www.youtube.com/user/21jaison
+- jCursos https://www.youtube.com/channel/UCmHkD9-7Ra3seFg-z_v-zSA
+- Jorge Eduardo https://www.youtube.com/channel/UCTkJSqhK4nHhf1xCmLfyUcQ
+- Loiane Groner https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg
+- Lucas Caton https://www.youtube.com/channel/UCSBsYBhO5FLvvSl_ChnwDdw
+- Magno Tutor https://www.youtube.com/channel/UCoHFx6xI2Q3NAkJQ__e_12g
+- Mais Security https://www.youtube.com/channel/UCSeYN0O6gLW1eY8jByz3PkA
+- Mente Hacker BR https://www.youtube.com/channel/UC5hF_jmfIm_FPBj-WiWBH4Q
+- Otavino Mota https://www.youtube.com/channel/UCBBLiDMT8L0Noe0d_804wDg
+- Pagar.me Talks https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw
+- Pesadelo Do Sistema https://www.youtube.com/channel/UCu1hBwurjfNBpV8qPUQqZvA
+- Portal Geek Live https://www.youtube.com/channel/UCtPeGhLdGS5zvBnIjF7bBFw
+- Portal RM Factory https://www.youtube.com/channel/UCJ6mv9K6_wUrz97W1Ernr8w
+- Prof Eduardo Kraus https://www.youtube.com/channel/UCqcadIuuuyxNI3cV82N4Geg
+- pythonbrazil https://www.youtube.com/channel/UCiCQrFh8ckR_LXQyOAsOZiw
+- pythonbrazil https://www.youtube.com/channel/UCiHcO19LYSkbuCYgnRHI-2g
+- RBtech https://www.youtube.com/channel/UCVEa_x1n5FwWrxH00MrDPzQ
+- Renzo Nuccitelli https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g
+- Ricardo Longatto https://www.youtube.com/channel/UCHXz8q9tOE9-p442AUFJSRw
+- Rodrigo Branas https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ
+- Rodrigo Ramos https://www.youtube.com/channel/UCFlOjJn2N-jvb8S5n83huAg
+- Rodrigo Souza https://www.youtube.com/channel/UCdHcO3zYXVco91CIAk1u4PA
+- ronaldoframos https://www.youtube.com/channel/UC32bM3crKC9X4N731aWyQjA
+- Samuel Fontebasso https://www.youtube.com/channel/UCzAJGb7s1ephf0RSNBsxU5A
+- TDevRocks https://www.youtube.com/channel/UCKmWWUSI6m51A8a-bZ0dQNw
+- TekZoom https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg
+- Thiengo Calopsita https://www.youtube.com/channel/UCG3gFuIkRF3PpNkRk3Wp6dw
+- Ti Show https://www.youtube.com/channel/UCB7gSpCPD0kkyL6LBQWbaGw
+- tp developer https://www.youtube.com/channel/UCt81zuEqfpsZsaSS8VeVGHw
+- Victor Oliveira https://www.youtube.com/channel/UCuiKahAvDosRDagQ2umYF9g
+- Webschool - PHP https://www.youtube.com/channel/UCPS5rAfi_odxLcRur2qjiKA
+- Zero Bugs https://www.youtube.com/channel/UC6BN1oSRAxcABupjn_bnT7g
+- Zero Bugs https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg
+- Webschool - GO https://www.youtube.com/channel/UCXJcJFMyw8aBnvV0SPZWAdg
+- Webschool.io - JavaScript https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg
+
+
