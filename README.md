@@ -7,6 +7,7 @@
 - Bluesoft Labs https://www.youtube.com/channel/UCMbi8katMCUd5JkJ3Rr0t_w
 - Bons Tutoriais https://www.youtube.com/channel/UC72ycxGTuknoFngOfZ2vXoA
 - Calango Hacker Clube https://www.youtube.com/channel/UCXipWgOJCJULdvLP2wNEnjQ
+- CappuForDevs https://www.youtube.com/channel/UChYJDfeNaNXByhB4Qiidbyg
 - Code.education https://www.youtube.com/channel/UCIlafifr-E57jct9knCrZzw
 - Curso em Vídeo https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
 - Curso Zend Framework https://www.youtube.com/channel/UCsMR_iixPPlYl6QysW3kkyQ
@@ -28,6 +29,7 @@
 - iMasters https://www.youtube.com/channel/UCNTX_S7zq9h_MKhPljMIoYw
 - Jaison Tiago de Lara https://www.youtube.com/user/21jaison
 - jCursos https://www.youtube.com/channel/UCmHkD9-7Ra3seFg-z_v-zSA
+- Joel Backschat https://www.youtube.com/channel/UCFkn0URIF0-76KbNneglpvQ
 - Jorge Eduardo https://www.youtube.com/channel/UCTkJSqhK4nHhf1xCmLfyUcQ
 - Loiane Groner https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg
 - Lucas Caton https://www.youtube.com/channel/UCSBsYBhO5FLvvSl_ChnwDdw
