@@ -22,6 +22,7 @@
 - Fabio Vedovelli https://www.youtube.com/channel/UC1PUtdA_NktdtmRpF_UGG_w
 - Felipe Fontoura - Dev Samurai https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw
 - Filipe Deschamps https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw
+- Grafikart fr https://www.youtube.com/user/grafikarttv/featured
 - Gravento https://www.youtube.com/channel/UCU_SZQAcN4IDs_RXY7iT4sg
 - HxTutors https://www.youtube.com/channel/UC-KV2g7wDXFPLqEFan4oeBQ
 - Ignorância Zero https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw
